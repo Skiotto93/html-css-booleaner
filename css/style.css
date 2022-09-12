@@ -14,4 +14,17 @@
 
 h1 {
     font-size: 50px;
+    margin-bottom: 0px;
+}
+
+#intestatario {
+    color: #20A9E5;
+}
+
+.scrittura {
+    color: #808080;
+}
+
+.fototim {
+    margin-top: 10px;
 }
