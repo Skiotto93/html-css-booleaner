@@ -37,8 +37,31 @@ h1 {
     background-color:  #B1E5F2;
 }
 
+table {
+    table-layout: fixed;
+  width: 100%;
+  border-spacing: 0;
+}
+
 .int {
     background-color: #20A9E5;
     color: white;
 }
 
+#ins {
+    background-image: url("../img/monitor.jpg");
+    
+    
+}
+
+#ins2 {
+    background-image: url(../img/graph.jpg);  
+}
+
+.pubblicità {
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: x-large;
+}
