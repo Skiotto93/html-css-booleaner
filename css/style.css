@@ -28,3 +28,17 @@ h1 {
 .fototim {
     margin-top: 10px;
 }
+
+.lista {
+    padding: 0px;
+}
+
+.tab {
+    background-color:  #B1E5F2;
+}
+
+.int {
+    background-color: #20A9E5;
+    color: white;
+}
+
